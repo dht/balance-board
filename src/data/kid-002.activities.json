@@ -1,0 +1,26 @@
+[
+  {
+    "id": "n-family-picnic",
+    "date": "2026-07-03",
+    "title": "Family picnic",
+    "time": "11:00",
+    "type": "family",
+    "durationHours": 2.5
+  },
+  {
+    "id": "n-playdate-ori",
+    "date": "2026-07-21",
+    "title": "Playdate with Ori",
+    "time": "16:30",
+    "type": "social",
+    "durationHours": 2
+  },
+  {
+    "id": "n-school-prep",
+    "date": "2026-08-23",
+    "title": "School prep visit",
+    "time": "10:30",
+    "type": "family",
+    "durationHours": 1.5
+  }
+]

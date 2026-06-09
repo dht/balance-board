@@ -1,0 +1,106 @@
+{
+  "numberOfKids": 2,
+  "children": [
+    {
+      "id": "kid-001",
+      "initial": "M",
+      "bedTime": "20:30",
+      "wakeUpTime": "07:00",
+      "schoolHours": {
+        "0": {
+          "start": "08:00",
+          "end": "13:30"
+        },
+        "1": {
+          "start": "08:00",
+          "end": "13:30"
+        },
+        "2": {
+          "start": "08:00",
+          "end": "13:30"
+        },
+        "3": {
+          "start": "08:00",
+          "end": "13:30"
+        },
+        "4": {
+          "start": "08:00",
+          "end": "12:45"
+        }
+      }
+    },
+    {
+      "id": "kid-002",
+      "initial": "N",
+      "bedTime": "20:00",
+      "wakeUpTime": "06:45",
+      "schoolHours": {
+        "0": {
+          "start": "08:00",
+          "end": "13:00"
+        },
+        "1": {
+          "start": "08:00",
+          "end": "13:00"
+        },
+        "2": {
+          "start": "08:00",
+          "end": "13:00"
+        },
+        "3": {
+          "start": "08:00",
+          "end": "13:00"
+        },
+        "4": {
+          "start": "08:00",
+          "end": "12:30"
+        }
+      }
+    }
+  ],
+  "weekendDays": [5, 6],
+  "summerVacation": {
+    "startDate": "2026-06-21",
+    "endDate": "2026-08-31"
+  },
+  "schoolBreakMonths": [6, 7],
+  "parents": {
+    "mom": {
+      "label": "Mom"
+    },
+    "dad": {
+      "label": "Dad"
+    }
+  },
+  "calendarMonths": [
+    {
+      "year": 2026,
+      "monthIndex": 5
+    },
+    {
+      "year": 2026,
+      "monthIndex": 6
+    },
+    {
+      "year": 2026,
+      "monthIndex": 7
+    }
+  ],
+  "custodyPattern": {
+    "referenceWeekStart": "2026-05-31",
+    "alternatingWeekendParents": ["mom", "dad"],
+    "alternatingWeekday": 1,
+    "weekdayRules": {
+      "mom": {
+        "fixedWeekdays": [0, 3]
+      },
+      "dad": {
+        "fixedWeekdays": [2, 4]
+      }
+    },
+    "transition": {
+      "name": "Morning",
+      "hours": 2
+    }
+  }
+}

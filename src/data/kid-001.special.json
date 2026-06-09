@@ -1,0 +1,10 @@
+[
+  {
+    "id": "m-summer-trip",
+    "title": "Trip abroad",
+    "startDate": "2026-07-10",
+    "endDate": "2026-07-16",
+    "withParent": "mom",
+    "note": "Special period overrides the regular biweekly pattern."
+  }
+]

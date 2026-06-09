@@ -1,0 +1,10 @@
+[
+  {
+    "id": "n-cousins-weekend",
+    "title": "Cousins weekend",
+    "startDate": "2026-08-14",
+    "endDate": "2026-08-16",
+    "withParent": "dad",
+    "note": "Special period overrides the regular biweekly pattern."
+  }
+]

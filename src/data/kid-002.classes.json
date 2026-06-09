@@ -1,0 +1,18 @@
+[
+  {
+    "id": "n-football",
+    "title": "Football",
+    "weekday": 0,
+    "time": "16:00",
+    "type": "sport",
+    "durationHours": 1.5
+  },
+  {
+    "id": "n-swimming",
+    "title": "Swimming",
+    "weekday": 3,
+    "time": "17:00",
+    "type": "sport",
+    "durationHours": 1
+  }
+]

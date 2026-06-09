@@ -1,0 +1,26 @@
+[
+  {
+    "id": "m-zoe-birthday",
+    "date": "2026-06-12",
+    "title": "Zoe's birthday",
+    "time": "15:30",
+    "type": "social",
+    "durationHours": 2
+  },
+  {
+    "id": "m-recital",
+    "date": "2026-08-09",
+    "title": "Ballet recital",
+    "time": "18:00",
+    "type": "class",
+    "durationHours": 1.5
+  },
+  {
+    "id": "m-school-prep",
+    "date": "2026-08-23",
+    "title": "School prep visit",
+    "time": "10:30",
+    "type": "family",
+    "durationHours": 1.5
+  }
+]

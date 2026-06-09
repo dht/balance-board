@@ -1,0 +1,18 @@
+[
+  {
+    "id": "m-ballet",
+    "title": "Ballet",
+    "weekday": 6,
+    "time": "10:00",
+    "type": "class",
+    "durationHours": 1.5
+  },
+  {
+    "id": "m-swimming",
+    "title": "Swimming",
+    "weekday": 3,
+    "time": "17:00",
+    "type": "sport",
+    "durationHours": 1
+  }
+]
